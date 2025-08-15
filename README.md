@@ -1,4 +1,4 @@
-# it,s NASSR
+# it's NASSR
 
 ## 🎓 About Me
 Third-year Cybersecurity student at the University of Mosul, currently training in Web Full-Stack Development at Q Lab.  
@@ -43,6 +43,6 @@ Passionate about building secure and efficient web applications, participating i
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 - Email: NSRFARS8@gmail.com  
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/nassr-faris-418aa0366/
